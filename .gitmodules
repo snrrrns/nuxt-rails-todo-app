@@ -1,6 +1,6 @@
 [submodule "nuxt-rails-todo-app_frontend"]
-	path = nuxt-rails-todo-app_frontend
+	path = front
 	url = https://github.com/snrrrns/nuxt-rails-todo-app_frontend.git
 [submodule "nuxt-rails-todo-app_backend"]
-	path = nuxt-rails-todo-app_backend
+	path = back
 	url = https://github.com/snrrrns/nuxt-rails-todo-app_backend.git
